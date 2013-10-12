@@ -2,6 +2,10 @@
 
 A Clojure library designed to translate text from one language to another using Yandex.Translate web API.
 
+## Statuses
+
+[![Dependencies Status](http://jarkeeper.com/moffff/yandex-translate/status.png)](http://jarkeeper.com/moffff/yandex-translate)
+
 ## Install
 
 Add to project.clj:
