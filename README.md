@@ -18,7 +18,7 @@ Add to project.clj:
 ## Usage
 
 ```
-user=> (use yandex.translate)
+user=> (use translate.yandex)
 nil
 
 user=> (translate "Hello" {:api-key "Yandex.Translate API key"
