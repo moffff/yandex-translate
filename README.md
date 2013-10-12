@@ -1,6 +1,7 @@
 # Yandex.Translate clojure library
 
 A Clojure library designed to translate text from one language to another using Yandex.Translate web API.
+Based on [hashobject / translate](https://github.com/hashobject/translate).
 
 ## Statuses
 
